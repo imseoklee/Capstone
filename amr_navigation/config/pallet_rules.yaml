@@ -4,13 +4,15 @@
       - "PalletBin_A_01"
       - "PalletBin_B_01"
       - "PalletBin_I_01"
+      - "PalletBin_H_01"
     target_pallets:
       - "PalletBin_A_02"
       - "PalletBin_B_02"
       - "PalletBin_I_02"
+      - "PalletBin_H_02"
     obstacle_suffix: "01"
     target_suffix: "02"
-    target_pallet: "PalletBin_B_02"
+    target_pallet: "PalletBin_H_02"
     prim_structure_file: "/home/nsl/Capston_workspace/occupancy_map/maps/Map01_prim_structure.txt"
     robot_structure_file: "/home/nsl/Capston_workspace/occupancy_map/maps/Map01_robot_structure.txt"
     pre_dock_distance: 2.0

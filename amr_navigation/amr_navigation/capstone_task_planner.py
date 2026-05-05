@@ -4126,16 +4126,17 @@ class CapstoneTaskPlanner(Node):
             scaled_floor = min(breakaway_floor * error_scale, effective_max_speed)
             if abs(angular_z) < scaled_floor:
                 angular_z = math.copysign(scaled_floor, yaw_error)
-        if phase == "pre_turn_forward" and abs(yaw_error) > stop_tolerance * 1.5:
-            breakaway_floor = (
-                self.loaded_pre_turn_min_angular_speed
-                if carrying_load
-                else self.pre_turn_min_angular_speed
-            )
-            error_scale = min(1.0, abs(yaw_error) / max(stop_tolerance * 2.0, 1e-6))
-            scaled_floor = min(breakaway_floor * error_scale, effective_max_speed)
-            if abs(angular_z) < scaled_floor:
-                angular_z = math.copysign(scaled_floor, yaw_error)
+        if phase == "pre_turn_forward":
+            if carrying_load and abs(yaw_error) > self.pre_turn_heading_stop_tolerance:
+                fixed_floor = min(self.loaded_pre_turn_min_angular_speed, effective_max_speed)
+                if abs(angular_z) < fixed_floor:
+                    angular_z = math.copysign(fixed_floor, yaw_error)
+            elif abs(yaw_error) > stop_tolerance * 1.5:
+                breakaway_floor = self.pre_turn_min_angular_speed
+                error_scale = min(1.0, abs(yaw_error) / max(stop_tolerance * 2.0, 1e-6))
+                scaled_floor = min(breakaway_floor * error_scale, effective_max_speed)
+                if abs(angular_z) < scaled_floor:
+                    angular_z = math.copysign(scaled_floor, yaw_error)
         self._log_manual_rotation_once_per_second(
             namespace=namespace,
             phase=phase,

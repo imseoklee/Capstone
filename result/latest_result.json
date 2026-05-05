@@ -1,20 +1,20 @@
 {
-  "status": "running",
-  "updated_ros_time_sec": 1777966700.385,
+  "status": "completed",
+  "updated_ros_time_sec": 1777971404.287,
   "durations": {
-    "digging_time_sec": null,
-    "relocate_time_sec": null,
-    "total_time_sec": null,
-    "amr1_nav2_total_sec": 0.0,
-    "amr2_nav2_total_sec": 84.241
+    "digging_time_sec": 273.247,
+    "relocate_time_sec": 108.05,
+    "total_time_sec": 759.796,
+    "amr1_nav2_total_sec": 304.413,
+    "amr2_nav2_total_sec": 397.703
   },
   "events": {
-    "amr1_move_start_time": 1777966576.406,
-    "amr1_first_pre_dock_arrival_time": 1777966700.385,
-    "amr1_digging_start_time": 1777966700.385,
-    "amr2_returned_pre_dock_with_target_time": null,
-    "amr1_move_to_relocation_start_time": null,
-    "amr1_relocation_placed_time": null,
-    "amr1_home_arrival_time": null
+    "amr1_move_start_time": 1777970644.49,
+    "amr1_first_pre_dock_arrival_time": 1777970789.464,
+    "amr1_digging_start_time": 1777970789.465,
+    "amr2_returned_pre_dock_with_target_time": 1777971062.712,
+    "amr1_move_to_relocation_start_time": 1777971089.062,
+    "amr1_relocation_placed_time": 1777971197.112,
+    "amr1_home_arrival_time": 1777971404.287
   }
 }
