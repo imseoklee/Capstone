@@ -1,0 +1,533 @@
+[1777966576.397] [INFO] Mission state changed: UNSET -> WAIT_DELAYED_START (AMR2 is waiting for its delayed start toward the shared blocker pre_dock.)
+[1777966576.583] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966577.783] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966578.785] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966579.984] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966580.984] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966582.183] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966583.384] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966584.583] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966585.783] [INFO] amr2_pre_dock tracking: state=WAIT_DELAYED_START phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966586.583] [INFO] Mission state changed: WAIT_DELAYED_START -> MOVE_TO_PRE_DOCK (AMR2 finished its delayed wait and is moving toward the shared pre_dock.)
+[1777966586.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966587.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966588.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966590.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966591.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(7.043, -9.979, 3.141) target=(3.411, 0.400, 0.000) distance=10.996 yaw_error=-3.141
+[1777966592.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.977, -9.932, 3.042) target=(3.411, 0.400, 0.000) distance=10.930 yaw_error=-3.042
+[1777966593.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.977, -9.932, 3.042) target=(3.411, 0.400, 0.000) distance=10.930 yaw_error=-3.042
+[1777966594.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.877, -9.911, 2.900) target=(3.411, 0.400, 0.000) distance=10.878 yaw_error=-2.900
+[1777966595.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.801, -9.869, 2.847) target=(3.411, 0.400, 0.000) distance=10.814 yaw_error=-2.847
+[1777966596.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.661, -9.793, 2.748) target=(3.411, 0.400, 0.000) distance=10.699 yaw_error=-2.748
+[1777966598.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.595, -9.761, 2.722) target=(3.411, 0.400, 0.000) distance=10.648 yaw_error=-2.722
+[1777966599.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.493, -9.709, 2.683) target=(3.411, 0.400, 0.000) distance=10.568 yaw_error=-2.683
+[1777966600.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.279, -9.604, 2.578) target=(3.411, 0.400, 0.000) distance=10.408 yaw_error=-2.578
+[1777966601.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.196, -9.556, 2.540) target=(3.411, 0.400, 0.000) distance=10.338 yaw_error=-2.540
+[1777966602.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(6.088, -9.508, 2.494) target=(3.411, 0.400, 0.000) distance=10.263 yaw_error=-2.494
+[1777966603.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.998, -9.447, 2.453) target=(3.411, 0.400, 0.000) distance=10.181 yaw_error=-2.453
+[1777966604.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.916, -9.380, 2.421) target=(3.411, 0.400, 0.000) distance=10.096 yaw_error=-2.421
+[1777966605.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.827, -9.319, 2.384) target=(3.411, 0.400, 0.000) distance=10.015 yaw_error=-2.384
+[1777966607.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.780, -9.245, 2.352) target=(3.411, 0.400, 0.000) distance=9.932 yaw_error=-2.352
+[1777966608.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.689, -9.110, 2.324) target=(3.411, 0.400, 0.000) distance=9.778 yaw_error=-2.324
+[1777966609.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.617, -9.030, 2.294) target=(3.411, 0.400, 0.000) distance=9.685 yaw_error=-2.294
+[1777966610.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.534, -8.944, 2.274) target=(3.411, 0.400, 0.000) distance=9.582 yaw_error=-2.274
+[1777966611.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.469, -8.865, 2.274) target=(3.411, 0.400, 0.000) distance=9.491 yaw_error=-2.274
+[1777966612.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.325, -8.706, 2.246) target=(3.411, 0.400, 0.000) distance=9.306 yaw_error=-2.246
+[1777966613.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.252, -8.623, 2.238) target=(3.411, 0.400, 0.000) distance=9.209 yaw_error=-2.238
+[1777966614.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.198, -8.543, 2.231) target=(3.411, 0.400, 0.000) distance=9.120 yaw_error=-2.231
+[1777966616.184] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.097, -8.387, 2.206) target=(3.411, 0.400, 0.000) distance=8.948 yaw_error=-2.206
+[1777966617.184] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(5.043, -8.308, 2.189) target=(3.411, 0.400, 0.000) distance=8.860 yaw_error=-2.189
+[1777966618.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.991, -8.223, 2.173) target=(3.411, 0.400, 0.000) distance=8.766 yaw_error=-2.173
+[1777966619.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.937, -8.137, 2.173) target=(3.411, 0.400, 0.000) distance=8.673 yaw_error=-2.173
+[1777966620.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.888, -8.056, 2.153) target=(3.411, 0.400, 0.000) distance=8.584 yaw_error=-2.153
+[1777966621.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.760, -7.887, 2.139) target=(3.411, 0.400, 0.000) distance=8.396 yaw_error=-2.139
+[1777966622.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.725, -7.808, 2.126) target=(3.411, 0.400, 0.000) distance=8.313 yaw_error=-2.126
+[1777966623.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.666, -7.718, 2.125) target=(3.411, 0.400, 0.000) distance=8.214 yaw_error=-2.125
+[1777966624.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.608, -7.626, 2.121) target=(3.411, 0.400, 0.000) distance=8.114 yaw_error=-2.121
+[1777966626.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.504, -7.452, 2.119) target=(3.411, 0.400, 0.000) distance=7.928 yaw_error=-2.119
+[1777966627.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.457, -7.370, 2.124) target=(3.411, 0.400, 0.000) distance=7.841 yaw_error=-2.124
+[1777966628.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.407, -7.278, 2.107) target=(3.411, 0.400, 0.000) distance=7.742 yaw_error=-2.107
+[1777966629.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.366, -7.207, 2.122) target=(3.411, 0.400, 0.000) distance=7.666 yaw_error=-2.122
+[1777966630.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.269, -7.039, 2.118) target=(3.411, 0.400, 0.000) distance=7.488 yaw_error=-2.118
+[1777966631.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.221, -6.958, 2.108) target=(3.411, 0.400, 0.000) distance=7.402 yaw_error=-2.108
+[1777966632.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.168, -6.863, 2.111) target=(3.411, 0.400, 0.000) distance=7.303 yaw_error=-2.111
+[1777966633.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.117, -6.774, 2.103) target=(3.411, 0.400, 0.000) distance=7.209 yaw_error=-2.103
+[1777966635.184] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(4.011, -6.598, 2.098) target=(3.411, 0.400, 0.000) distance=7.024 yaw_error=-2.098
+[1777966636.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.965, -6.518, 2.116) target=(3.411, 0.400, 0.000) distance=6.940 yaw_error=-2.116
+[1777966637.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.922, -6.435, 2.123) target=(3.411, 0.400, 0.000) distance=6.854 yaw_error=-2.123
+[1777966638.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.871, -6.345, 2.125) target=(3.411, 0.400, 0.000) distance=6.761 yaw_error=-2.125
+[1777966639.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.772, -6.174, 2.115) target=(3.411, 0.400, 0.000) distance=6.584 yaw_error=-2.115
+[1777966640.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.716, -6.094, 2.109) target=(3.411, 0.400, 0.000) distance=6.501 yaw_error=-2.109
+[1777966641.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.669, -6.008, 2.086) target=(3.411, 0.400, 0.000) distance=6.413 yaw_error=-2.086
+[1777966642.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.623, -5.922, 2.073) target=(3.411, 0.400, 0.000) distance=6.326 yaw_error=-2.073
+[1777966644.184] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.510, -5.730, 2.060) target=(3.411, 0.400, 0.000) distance=6.130 yaw_error=-2.060
+[1777966645.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.452, -5.638, 2.059) target=(3.411, 0.400, 0.000) distance=6.038 yaw_error=-2.059
+[1777966646.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.412, -5.543, 2.054) target=(3.411, 0.400, 0.000) distance=5.943 yaw_error=-2.054
+[1777966647.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.317, -5.355, 2.023) target=(3.411, 0.400, 0.000) distance=5.756 yaw_error=-2.023
+[1777966648.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.274, -5.264, 2.011) target=(3.411, 0.400, 0.000) distance=5.665 yaw_error=-2.011
+[1777966649.985] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.238, -5.172, 1.982) target=(3.411, 0.400, 0.000) distance=5.574 yaw_error=-1.982
+[1777966651.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.194, -5.075, 1.960) target=(3.411, 0.400, 0.000) distance=5.479 yaw_error=-1.960
+[1777966652.184] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.128, -4.892, 1.905) target=(3.411, 0.400, 0.000) distance=5.299 yaw_error=-1.905
+[1777966653.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.105, -4.817, 1.887) target=(3.411, 0.400, 0.000) distance=5.226 yaw_error=-1.887
+[1777966654.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.072, -4.714, 1.875) target=(3.411, 0.400, 0.000) distance=5.126 yaw_error=-1.875
+[1777966655.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.040, -4.611, 1.857) target=(3.411, 0.400, 0.000) distance=5.025 yaw_error=-1.857
+[1777966656.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.991, -4.431, 1.842) target=(3.411, 0.400, 0.000) distance=4.849 yaw_error=-1.842
+[1777966657.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.959, -4.324, 1.823) target=(3.411, 0.400, 0.000) distance=4.746 yaw_error=-1.823
+[1777966658.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.931, -4.223, 1.809) target=(3.411, 0.400, 0.000) distance=4.648 yaw_error=-1.809
+[1777966660.184] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.911, -4.123, 1.789) target=(3.411, 0.400, 0.000) distance=4.550 yaw_error=-1.789
+[1777966661.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.885, -4.020, 1.795) target=(3.411, 0.400, 0.000) distance=4.451 yaw_error=-1.795
+[1777966662.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.870, -3.936, 1.783) target=(3.411, 0.400, 0.000) distance=4.370 yaw_error=-1.783
+[1777966663.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.856, -3.847, 1.772) target=(3.411, 0.400, 0.000) distance=4.283 yaw_error=-1.772
+[1777966664.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.832, -3.764, 1.759) target=(3.411, 0.400, 0.000) distance=4.204 yaw_error=-1.759
+[1777966665.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.813, -3.576, 1.718) target=(3.411, 0.400, 0.000) distance=4.021 yaw_error=-1.718
+[1777966667.184] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.803, -3.492, 1.704) target=(3.411, 0.400, 0.000) distance=3.939 yaw_error=-1.704
+[1777966668.385] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.774, -3.300, 1.680) target=(3.411, 0.400, 0.000) distance=3.754 yaw_error=-1.680
+[1777966669.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.755, -3.199, 1.663) target=(3.411, 0.400, 0.000) distance=3.658 yaw_error=-1.663
+[1777966670.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.730, -2.994, 1.654) target=(3.411, 0.400, 0.000) distance=3.462 yaw_error=-1.654
+[1777966670.785] [INFO] Mission state changed: MOVE_TO_PRE_DOCK -> APPROACHING_GATE (AMR2 canceled Nav2 in the pre-cancel margin and is now manually creeping toward the wait gate.)
+[1777966670.986] [INFO] AMR2 wait-gate manual approach: current=(2.730, -2.994, 1.654) pre_dock=(3.411, 0.400) distance=3.462 desired_heading=1.373 yaw_error=-0.281 cmd=(linear=0.030, angular=-0.337)
+[1777966671.183] [INFO] AMR2 wait-gate manual approach: current=(2.730, -2.994, 1.654) pre_dock=(3.411, 0.400) distance=3.462 desired_heading=1.373 yaw_error=-0.281 cmd=(linear=0.030, angular=-0.337)
+[1777966671.383] [INFO] AMR2 wait-gate manual approach: current=(2.730, -2.994, 1.654) pre_dock=(3.411, 0.400) distance=3.462 desired_heading=1.373 yaw_error=-0.281 cmd=(linear=0.030, angular=-0.337)
+[1777966671.583] [INFO] AMR2 wait-gate manual approach: current=(2.720, -2.888, 1.637) pre_dock=(3.411, 0.400) distance=3.360 desired_heading=1.364 yaw_error=-0.274 cmd=(linear=0.031, angular=-0.328)
+[1777966671.783] [INFO] AMR2 wait-gate manual approach: current=(2.720, -2.888, 1.637) pre_dock=(3.411, 0.400) distance=3.360 desired_heading=1.364 yaw_error=-0.274 cmd=(linear=0.031, angular=-0.328)
+[1777966671.983] [INFO] amr2_pre_dock tracking: state=APPROACHING_GATE phase=nav2_pre_dock current=(2.720, -2.888, 1.637) target=(3.411, 0.400, 0.000) distance=3.360 yaw_error=-1.637
+[1777966671.983] [INFO] AMR2 wait-gate manual approach: current=(2.720, -2.888, 1.637) pre_dock=(3.411, 0.400) distance=3.360 desired_heading=1.364 yaw_error=-0.274 cmd=(linear=0.031, angular=-0.328)
+[1777966672.184] [INFO] AMR2 wait-gate manual approach: current=(2.720, -2.888, 1.637) pre_dock=(3.411, 0.400) distance=3.360 desired_heading=1.364 yaw_error=-0.274 cmd=(linear=0.031, angular=-0.328)
+[1777966672.383] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.779, 1.638) pre_dock=(3.411, 0.400) distance=3.257 desired_heading=1.352 yaw_error=-0.286 cmd=(linear=0.029, angular=-0.344)
+[1777966672.583] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.779, 1.638) pre_dock=(3.411, 0.400) distance=3.257 desired_heading=1.352 yaw_error=-0.286 cmd=(linear=0.029, angular=-0.344)
+[1777966672.783] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.779, 1.638) pre_dock=(3.411, 0.400) distance=3.257 desired_heading=1.352 yaw_error=-0.286 cmd=(linear=0.029, angular=-0.344)
+[1777966672.983] [INFO] amr2_pre_dock tracking: state=APPROACHING_GATE phase=nav2_pre_dock current=(2.704, -2.779, 1.638) target=(3.411, 0.400, 0.000) distance=3.257 yaw_error=-1.638
+[1777966672.984] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.779, 1.638) pre_dock=(3.411, 0.400) distance=3.257 desired_heading=1.352 yaw_error=-0.286 cmd=(linear=0.029, angular=-0.344)
+[1777966673.183] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.705, 1.634) pre_dock=(3.411, 0.400) distance=3.185 desired_heading=1.347 yaw_error=-0.287 cmd=(linear=0.029, angular=-0.345)
+[1777966673.383] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.705, 1.634) pre_dock=(3.411, 0.400) distance=3.185 desired_heading=1.347 yaw_error=-0.287 cmd=(linear=0.029, angular=-0.345)
+[1777966673.583] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.705, 1.634) pre_dock=(3.411, 0.400) distance=3.185 desired_heading=1.347 yaw_error=-0.287 cmd=(linear=0.029, angular=-0.345)
+[1777966673.783] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.705, 1.634) pre_dock=(3.411, 0.400) distance=3.185 desired_heading=1.347 yaw_error=-0.287 cmd=(linear=0.029, angular=-0.345)
+[1777966673.983] [INFO] AMR2 wait-gate manual approach: current=(2.704, -2.705, 1.634) pre_dock=(3.411, 0.400) distance=3.185 desired_heading=1.347 yaw_error=-0.287 cmd=(linear=0.029, angular=-0.345)
+[1777966674.184] [INFO] amr2_pre_dock tracking: state=APPROACHING_GATE phase=nav2_pre_dock current=(2.703, -2.636, 1.628) target=(3.411, 0.400, 0.000) distance=3.117 yaw_error=-1.628
+[1777966674.184] [INFO] AMR2 wait-gate manual approach: current=(2.703, -2.636, 1.628) pre_dock=(3.411, 0.400) distance=3.117 desired_heading=1.342 yaw_error=-0.286 cmd=(linear=0.029, angular=-0.343)
+[1777966674.383] [INFO] AMR2 wait-gate manual approach: current=(2.703, -2.636, 1.628) pre_dock=(3.411, 0.400) distance=3.117 desired_heading=1.342 yaw_error=-0.286 cmd=(linear=0.029, angular=-0.343)
+[1777966674.583] [INFO] AMR2 wait-gate manual approach: current=(2.703, -2.636, 1.628) pre_dock=(3.411, 0.400) distance=3.117 desired_heading=1.342 yaw_error=-0.286 cmd=(linear=0.029, angular=-0.343)
+[1777966674.784] [INFO] AMR2 wait-gate manual approach: current=(2.703, -2.636, 1.628) pre_dock=(3.411, 0.400) distance=3.117 desired_heading=1.342 yaw_error=-0.286 cmd=(linear=0.029, angular=-0.343)
+[1777966674.983] [INFO] AMR2 wait-gate manual approach: current=(2.694, -2.557, 1.614) pre_dock=(3.411, 0.400) distance=3.043 desired_heading=1.333 yaw_error=-0.281 cmd=(linear=0.030, angular=-0.337)
+[1777966675.183] [INFO] AMR2 wait-gate manual approach: current=(2.694, -2.557, 1.614) pre_dock=(3.411, 0.400) distance=3.043 desired_heading=1.333 yaw_error=-0.281 cmd=(linear=0.030, angular=-0.337)
+[1777966675.383] [INFO] amr2_pre_dock tracking: state=APPROACHING_GATE phase=nav2_pre_dock current=(2.694, -2.557, 1.614) target=(3.411, 0.400, 0.000) distance=3.043 yaw_error=-1.614
+[1777966675.383] [INFO] AMR2 wait-gate manual approach: current=(2.694, -2.557, 1.614) pre_dock=(3.411, 0.400) distance=3.043 desired_heading=1.333 yaw_error=-0.281 cmd=(linear=0.030, angular=-0.337)
+[1777966675.583] [INFO] AMR2 wait-gate manual approach: current=(2.694, -2.557, 1.614) pre_dock=(3.411, 0.400) distance=3.043 desired_heading=1.333 yaw_error=-0.281 cmd=(linear=0.030, angular=-0.337)
+[1777966675.783] [INFO] Mission state changed: APPROACHING_GATE -> WAIT_AT_GATE (AMR2 reached its pre_dock wait gate and is holding there until AMR1 clears the shared pre_dock.)
+[1777966676.384] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.692, -2.493, 1.589) target=(3.411, 0.400, 0.000) distance=2.981 yaw_error=-1.589
+[1777966677.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966678.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966679.783] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966680.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966682.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966683.383] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966684.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966685.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966686.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966687.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966688.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966689.783] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966690.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966691.983] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966692.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966693.983] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966695.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966696.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966697.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966698.383] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966699.384] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966700.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966701.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966702.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966703.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966705.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966706.384] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966707.384] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966708.385] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966709.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966710.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966711.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966712.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966713.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966714.586] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966715.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966716.785] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966717.985] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966719.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966720.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966721.383] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966722.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966723.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966724.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966725.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966726.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966727.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966728.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966730.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966731.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966732.386] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966733.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966734.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966735.783] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966736.783] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966737.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966739.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966740.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966741.383] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966742.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966743.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966744.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966745.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966746.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966747.983] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966748.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966749.983] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966751.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966752.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966753.185] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966754.383] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966755.384] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966756.385] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966757.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966758.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966759.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966760.783] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966761.785] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966762.783] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966763.983] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966764.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966765.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966767.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966768.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966769.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966770.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966771.385] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966772.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966773.788] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966774.983] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966776.187] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966777.383] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966778.583] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966779.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966780.983] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966781.984] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966783.183] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966784.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966785.383] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966786.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966787.584] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966788.784] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966789.987] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966791.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966792.184] [INFO] amr2_pre_dock tracking: state=WAIT_AT_GATE phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966793.184] [INFO] Mission state changed: WAIT_AT_GATE -> MOVE_TO_PRE_DOCK (Nav2 is actively moving this AMR during amr2_pre_dock.)
+[1777966793.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966794.585] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966795.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966796.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.691, -2.408, 1.541) target=(3.411, 0.400, 0.000) distance=2.898 yaw_error=-1.541
+[1777966797.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.693, -2.343, 1.539) target=(3.411, 0.400, 0.000) distance=2.836 yaw_error=-1.539
+[1777966799.185] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.692, -2.256, 1.537) target=(3.411, 0.400, 0.000) distance=2.751 yaw_error=-1.537
+[1777966800.184] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.691, -2.201, 1.548) target=(3.411, 0.400, 0.000) distance=2.699 yaw_error=-1.548
+[1777966801.185] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.692, -2.122, 1.548) target=(3.411, 0.400, 0.000) distance=2.622 yaw_error=-1.548
+[1777966802.383] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.689, -2.021, 1.551) target=(3.411, 0.400, 0.000) distance=2.527 yaw_error=-1.551
+[1777966803.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.697, -1.929, 1.542) target=(3.411, 0.400, 0.000) distance=2.436 yaw_error=-1.542
+[1777966804.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.705, -1.824, 1.542) target=(3.411, 0.400, 0.000) distance=2.333 yaw_error=-1.542
+[1777966805.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.707, -1.725, 1.537) target=(3.411, 0.400, 0.000) distance=2.238 yaw_error=-1.537
+[1777966806.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.705, -1.609, 1.528) target=(3.411, 0.400, 0.000) distance=2.129 yaw_error=-1.528
+[1777966808.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.714, -1.502, 1.517) target=(3.411, 0.400, 0.000) distance=2.026 yaw_error=-1.517
+[1777966809.185] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.721, -1.400, 1.512) target=(3.411, 0.400, 0.000) distance=1.928 yaw_error=-1.512
+[1777966810.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.727, -1.300, 1.481) target=(3.411, 0.400, 0.000) distance=1.833 yaw_error=-1.481
+[1777966811.385] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.733, -1.195, 1.453) target=(3.411, 0.400, 0.000) distance=1.733 yaw_error=-1.453
+[1777966812.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.746, -1.097, 1.410) target=(3.411, 0.400, 0.000) distance=1.639 yaw_error=-1.410
+[1777966813.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.761, -0.994, 1.383) target=(3.411, 0.400, 0.000) distance=1.538 yaw_error=-1.383
+[1777966814.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.791, -0.845, 1.354) target=(3.411, 0.400, 0.000) distance=1.391 yaw_error=-1.354
+[1777966815.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.810, -0.774, 1.343) target=(3.411, 0.400, 0.000) distance=1.319 yaw_error=-1.343
+[1777966816.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.827, -0.730, 1.326) target=(3.411, 0.400, 0.000) distance=1.272 yaw_error=-1.326
+[1777966817.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.839, -0.638, 1.310) target=(3.411, 0.400, 0.000) distance=1.185 yaw_error=-1.310
+[1777966818.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.857, -0.557, 1.295) target=(3.411, 0.400, 0.000) distance=1.106 yaw_error=-1.295
+[1777966819.985] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.876, -0.505, 1.269) target=(3.411, 0.400, 0.000) distance=1.052 yaw_error=-1.269
+[1777966821.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.900, -0.454, 1.247) target=(3.411, 0.400, 0.000) distance=0.995 yaw_error=-1.247
+[1777966822.384] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.944, -0.364, 1.202) target=(3.411, 0.400, 0.000) distance=0.895 yaw_error=-1.202
+[1777966823.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.944, -0.364, 1.202) target=(3.411, 0.400, 0.000) distance=0.895 yaw_error=-1.202
+[1777966824.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.979, -0.293, 1.165) target=(3.411, 0.400, 0.000) distance=0.817 yaw_error=-1.165
+[1777966825.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(2.979, -0.293, 1.165) target=(3.411, 0.400, 0.000) distance=0.817 yaw_error=-1.165
+[1777966826.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.023, -0.210, 1.138) target=(3.411, 0.400, 0.000) distance=0.723 yaw_error=-1.138
+[1777966827.985] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.023, -0.210, 1.138) target=(3.411, 0.400, 0.000) distance=0.723 yaw_error=-1.138
+[1777966828.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.059, -0.138, 1.108) target=(3.411, 0.400, 0.000) distance=0.643 yaw_error=-1.108
+[1777966830.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.088, -0.083, 1.078) target=(3.411, 0.400, 0.000) distance=0.581 yaw_error=-1.078
+[1777966831.385] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.088, -0.083, 1.078) target=(3.411, 0.400, 0.000) distance=0.581 yaw_error=-1.078
+[1777966832.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.123, -0.023, 1.060) target=(3.411, 0.400, 0.000) distance=0.511 yaw_error=-1.060
+[1777966833.584] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.123, -0.023, 1.060) target=(3.411, 0.400, 0.000) distance=0.511 yaw_error=-1.060
+[1777966834.784] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.165, 0.052, 1.034) target=(3.411, 0.400, 0.000) distance=0.426 yaw_error=-1.034
+[1777966835.783] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.165, 0.052, 1.034) target=(3.411, 0.400, 0.000) distance=0.426 yaw_error=-1.034
+[1777966836.984] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.165, 0.052, 1.034) target=(3.411, 0.400, 0.000) distance=0.426 yaw_error=-1.034
+[1777966838.183] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.211, 0.113, 1.002) target=(3.411, 0.400, 0.000) distance=0.350 yaw_error=-1.002
+[1777966839.386] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.211, 0.113, 1.002) target=(3.411, 0.400, 0.000) distance=0.350 yaw_error=-1.002
+[1777966840.583] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.259, 0.183, 0.990) target=(3.411, 0.400, 0.000) distance=0.265 yaw_error=-0.990
+[1777966841.785] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.259, 0.183, 0.990) target=(3.411, 0.400, 0.000) distance=0.265 yaw_error=-0.990
+[1777966842.983] [INFO] amr2_pre_dock tracking: state=MOVE_TO_PRE_DOCK phase=nav2_pre_dock current=(3.259, 0.183, 0.990) target=(3.411, 0.400, 0.000) distance=0.265 yaw_error=-0.990
+[1777966843.584] [INFO] Mission state changed: MOVE_TO_PRE_DOCK -> DIGGING (AMR2 reached the shared pre_dock and is starting its rotate-forward-lift digging flow.)
+[1777966843.584] [INFO] AMR2 target docking flow: pre_dock -> pre_turn_forward -> dock -> lift_align -> lift -> reverse
+[1777966843.585] [INFO] AMR2 target pre-dock goal succeeded for /iw_hub_ROS_01. Starting docking phase (pre_turn_forward -> dock), axis_heading=0.000 current_yaw=1.025 error=-1.025 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400, 0.000)
+[1777966843.585] [INFO] Pre-turn forward start pose: pos=(3.307, 0.252) yaw=1.025
+[1777966843.633] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966843.633] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966843.634] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966843.984] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.307, 0.252, 1.025) target=(3.411, 0.400, 0.000) distance=0.181 yaw_error=-1.025
+[1777966844.633] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966844.633] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966844.634] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966844.985] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.307, 0.252, 1.025) target=(3.411, 0.400, 0.000) distance=0.181 yaw_error=-1.025
+[1777966845.684] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966845.685] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966845.685] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966845.985] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.307, 0.252, 1.025) target=(3.411, 0.400, 0.000) distance=0.181 yaw_error=-1.025
+[1777966846.733] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966846.733] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966846.733] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966847.184] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.307, 0.252, 1.025) target=(3.411, 0.400, 0.000) distance=0.181 yaw_error=-1.025
+[1777966847.733] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966847.733] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966847.734] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966848.383] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.307, 0.252, 1.025) target=(3.411, 0.400, 0.000) distance=0.181 yaw_error=-1.025
+[1777966848.734] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966848.735] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966848.735] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966849.584] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.307, 0.252, 1.025) target=(3.411, 0.400, 0.000) distance=0.181 yaw_error=-1.025
+[1777966849.783] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966849.783] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966849.783] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966850.584] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.307, 0.252, 1.025) target=(3.411, 0.400, 0.000) distance=0.181 yaw_error=-1.025
+[1777966850.833] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966850.833] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966850.834] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966851.783] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.307, 0.252, 1.025) target=(3.411, 0.400, 0.000) distance=0.181 yaw_error=-1.025
+[1777966851.833] [INFO] Manual docking state: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 pre_dock_distance=0.181 blocker=(6.755, 0.400)
+[1777966851.883] [INFO] Manual rotation: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966851.883] [INFO] Manual cmd: phase=pre_turn_forward current=(3.307, 0.252, 1.025) target_heading=0.000 yaw_error=-1.025 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966852.784] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.327, 0.294, 0.883) target=(3.411, 0.400, 0.000) distance=0.135 yaw_error=-0.883
+[1777966852.883] [INFO] Manual docking state: phase=pre_turn_forward current=(3.327, 0.294, 0.883) target_heading=0.000 yaw_error=-0.883 pre_dock_distance=0.135 blocker=(6.755, 0.400)
+[1777966852.884] [INFO] Manual rotation: phase=pre_turn_forward current=(3.327, 0.294, 0.883) target_heading=0.000 yaw_error=-0.883 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966852.884] [INFO] Manual cmd: phase=pre_turn_forward current=(3.327, 0.294, 0.883) target_heading=0.000 yaw_error=-0.883 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966853.785] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.327, 0.294, 0.883) target=(3.411, 0.400, 0.000) distance=0.135 yaw_error=-0.883
+[1777966853.933] [INFO] Manual docking state: phase=pre_turn_forward current=(3.323, 0.296, 0.708) target_heading=0.000 yaw_error=-0.708 pre_dock_distance=0.136 blocker=(6.755, 0.400)
+[1777966853.934] [INFO] Manual rotation: phase=pre_turn_forward current=(3.323, 0.296, 0.708) target_heading=0.000 yaw_error=-0.708 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966853.934] [INFO] Manual cmd: phase=pre_turn_forward current=(3.323, 0.296, 0.708) target_heading=0.000 yaw_error=-0.708 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966854.983] [INFO] Manual docking state: phase=pre_turn_forward current=(3.323, 0.296, 0.708) target_heading=0.000 yaw_error=-0.708 pre_dock_distance=0.136 blocker=(6.755, 0.400)
+[1777966854.983] [INFO] Manual rotation: phase=pre_turn_forward current=(3.323, 0.296, 0.708) target_heading=0.000 yaw_error=-0.708 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966854.984] [INFO] Manual cmd: phase=pre_turn_forward current=(3.323, 0.296, 0.708) target_heading=0.000 yaw_error=-0.708 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966854.984] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.323, 0.296, 0.708) target=(3.411, 0.400, 0.000) distance=0.136 yaw_error=-0.708
+[1777966855.983] [INFO] Manual docking state: phase=pre_turn_forward current=(3.310, 0.287, 0.535) target_heading=0.000 yaw_error=-0.535 pre_dock_distance=0.151 blocker=(6.755, 0.400)
+[1777966855.983] [INFO] Manual rotation: phase=pre_turn_forward current=(3.310, 0.287, 0.535) target_heading=0.000 yaw_error=-0.535 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966855.984] [INFO] Manual cmd: phase=pre_turn_forward current=(3.310, 0.287, 0.535) target_heading=0.000 yaw_error=-0.535 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966855.984] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.310, 0.287, 0.535) target=(3.411, 0.400, 0.000) distance=0.151 yaw_error=-0.535
+[1777966856.983] [INFO] Manual docking state: phase=pre_turn_forward current=(3.310, 0.287, 0.535) target_heading=0.000 yaw_error=-0.535 pre_dock_distance=0.151 blocker=(6.755, 0.400)
+[1777966856.984] [INFO] Manual rotation: phase=pre_turn_forward current=(3.310, 0.287, 0.535) target_heading=0.000 yaw_error=-0.535 cmd_angular=-1.100 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966856.984] [INFO] Manual cmd: phase=pre_turn_forward current=(3.310, 0.287, 0.535) target_heading=0.000 yaw_error=-0.535 cmd=(linear=0.000, angular=-1.100) blocker=(6.755, 0.400)
+[1777966856.987] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.310, 0.287, 0.535) target=(3.411, 0.400, 0.000) distance=0.151 yaw_error=-0.535
+[1777966858.033] [INFO] Manual docking state: phase=pre_turn_forward current=(3.317, 0.288, 0.360) target_heading=0.000 yaw_error=-0.360 pre_dock_distance=0.146 blocker=(6.755, 0.400)
+[1777966858.034] [INFO] Manual rotation: phase=pre_turn_forward current=(3.317, 0.288, 0.360) target_heading=0.000 yaw_error=-0.360 cmd_angular=-1.080 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966858.034] [INFO] Manual cmd: phase=pre_turn_forward current=(3.317, 0.288, 0.360) target_heading=0.000 yaw_error=-0.360 cmd=(linear=0.000, angular=-1.080) blocker=(6.755, 0.400)
+[1777966858.183] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.317, 0.288, 0.360) target=(3.411, 0.400, 0.000) distance=0.146 yaw_error=-0.360
+[1777966859.083] [INFO] Manual docking state: phase=pre_turn_forward current=(3.317, 0.288, 0.360) target_heading=0.000 yaw_error=-0.360 pre_dock_distance=0.146 blocker=(6.755, 0.400)
+[1777966859.083] [INFO] Manual rotation: phase=pre_turn_forward current=(3.317, 0.288, 0.360) target_heading=0.000 yaw_error=-0.360 cmd_angular=-1.080 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966859.084] [INFO] Manual cmd: phase=pre_turn_forward current=(3.317, 0.288, 0.360) target_heading=0.000 yaw_error=-0.360 cmd=(linear=0.000, angular=-1.080) blocker=(6.755, 0.400)
+[1777966859.185] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.317, 0.288, 0.360) target=(3.411, 0.400, 0.000) distance=0.146 yaw_error=-0.360
+[1777966860.083] [INFO] Manual docking state: phase=pre_turn_forward current=(3.319, 0.285, 0.188) target_heading=0.000 yaw_error=-0.188 pre_dock_distance=0.147 blocker=(6.755, 0.400)
+[1777966860.083] [INFO] Manual rotation: phase=pre_turn_forward current=(3.319, 0.285, 0.188) target_heading=0.000 yaw_error=-0.188 cmd_angular=-0.300 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966860.084] [INFO] Manual cmd: phase=pre_turn_forward current=(3.319, 0.285, 0.188) target_heading=0.000 yaw_error=-0.188 cmd=(linear=0.000, angular=-0.300) blocker=(6.755, 0.400)
+[1777966860.383] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.319, 0.285, 0.188) target=(3.411, 0.400, 0.000) distance=0.147 yaw_error=-0.188
+[1777966861.085] [INFO] Manual docking state: phase=pre_turn_forward current=(3.319, 0.285, 0.188) target_heading=0.000 yaw_error=-0.188 pre_dock_distance=0.147 blocker=(6.755, 0.400)
+[1777966861.085] [INFO] Manual rotation: phase=pre_turn_forward current=(3.319, 0.285, 0.188) target_heading=0.000 yaw_error=-0.188 cmd_angular=-0.300 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Rotate in place toward pallet axis before starting pallet-axis docking
+[1777966861.085] [INFO] Manual cmd: phase=pre_turn_forward current=(3.319, 0.285, 0.188) target_heading=0.000 yaw_error=-0.188 cmd=(linear=0.000, angular=-0.300) blocker=(6.755, 0.400)
+[1777966861.383] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.319, 0.285, 0.188) target=(3.411, 0.400, 0.000) distance=0.147 yaw_error=-0.188
+[1777966861.435] [INFO] Pre-dock heading alignment finished at current=(3.341, 0.297, 0.019). Holding cmd_vel=0 briefly before pallet-axis docking.
+[1777966861.983] [INFO] Forward docking start pose: pos=(3.341, 0.297) yaw=0.019
+[1777966861.984] [INFO] Pre-dock stop hold finished. Starting forward docking motion.
+[1777966861.987] [INFO] Docking state: pos=(3.341, 0.297) current_yaw=0.019 axis_heading=0.000 axis_error=-0.019 target_yaw=0.300 yaw_error=0.281 along=3.615 cross=-0.103 phase=dock lift_done=False
+[1777966862.133] [INFO] Manual docking state: phase=dock current=(3.341, 0.297, 0.019) target_heading=0.000 yaw_error=-0.019 pre_dock_distance=0.125 blocker=(6.755, 0.400)
+[1777966862.134] [INFO] Manual cmd: phase=dock current=(3.341, 0.297, 0.019) target_heading=0.000 yaw_error=-0.019 cmd=(linear=0.304, angular=0.253) blocker=(6.755, 0.400)
+[1777966862.584] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.341, 0.297, 0.019) target=(3.411, 0.400, 0.000) distance=0.125 yaw_error=-0.019
+[1777966863.033] [INFO] Docking state: pos=(3.341, 0.297) current_yaw=0.019 axis_heading=0.000 axis_error=-0.019 target_yaw=0.300 yaw_error=0.281 along=3.615 cross=-0.103 phase=dock lift_done=False
+[1777966863.184] [INFO] Manual docking state: phase=dock current=(3.341, 0.297, 0.019) target_heading=0.000 yaw_error=-0.019 pre_dock_distance=0.125 blocker=(6.755, 0.400)
+[1777966863.185] [INFO] Manual cmd: phase=dock current=(3.341, 0.297, 0.019) target_heading=0.000 yaw_error=-0.019 cmd=(linear=1.200, angular=0.253) blocker=(6.755, 0.400)
+[1777966863.584] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.353, 0.309, -0.097) target=(3.411, 0.400, 0.000) distance=0.108 yaw_error=0.097
+[1777966864.083] [INFO] Docking state: pos=(3.353, 0.309) current_yaw=-0.097 axis_heading=0.000 axis_error=0.097 target_yaw=0.267 yaw_error=0.364 along=3.602 cross=-0.091 phase=dock lift_done=False
+[1777966864.184] [INFO] Manual docking state: phase=dock current=(3.353, 0.309, -0.097) target_heading=0.000 yaw_error=0.097 pre_dock_distance=0.108 blocker=(6.755, 0.400)
+[1777966864.185] [INFO] Manual cmd: phase=dock current=(3.353, 0.309, -0.097) target_heading=0.000 yaw_error=0.097 cmd=(linear=1.200, angular=0.327) blocker=(6.755, 0.400)
+[1777966864.587] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.353, 0.309, -0.097) target=(3.411, 0.400, 0.000) distance=0.108 yaw_error=0.097
+[1777966865.133] [INFO] Docking state: pos=(3.353, 0.309) current_yaw=-0.097 axis_heading=0.000 axis_error=0.097 target_yaw=0.267 yaw_error=0.364 along=3.602 cross=-0.091 phase=dock lift_done=False
+[1777966865.234] [INFO] Manual docking state: phase=dock current=(3.353, 0.309, -0.097) target_heading=0.000 yaw_error=0.097 pre_dock_distance=0.108 blocker=(6.755, 0.400)
+[1777966865.234] [INFO] Manual cmd: phase=dock current=(3.353, 0.309, -0.097) target_heading=0.000 yaw_error=0.097 cmd=(linear=1.200, angular=0.327) blocker=(6.755, 0.400)
+[1777966865.783] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.353, 0.309, -0.097) target=(3.411, 0.400, 0.000) distance=0.108 yaw_error=0.097
+[1777966866.133] [INFO] Docking state: pos=(3.353, 0.309) current_yaw=-0.097 axis_heading=0.000 axis_error=0.097 target_yaw=0.267 yaw_error=0.364 along=3.602 cross=-0.091 phase=dock lift_done=False
+[1777966866.283] [INFO] Manual docking state: phase=dock current=(3.423, 0.298, -0.140) target_heading=0.000 yaw_error=0.140 pre_dock_distance=0.103 blocker=(6.755, 0.400)
+[1777966866.284] [INFO] Manual cmd: phase=dock current=(3.423, 0.298, -0.140) target_heading=0.000 yaw_error=0.140 cmd=(linear=1.200, angular=0.394) blocker=(6.755, 0.400)
+[1777966866.985] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.423, 0.298, -0.140) target=(3.411, 0.400, 0.000) distance=0.103 yaw_error=0.140
+[1777966867.133] [INFO] Docking state: pos=(3.423, 0.298) current_yaw=-0.140 axis_heading=0.000 axis_error=0.140 target_yaw=0.298 yaw_error=0.438 along=3.532 cross=-0.102 phase=dock lift_done=False
+[1777966867.283] [INFO] Manual docking state: phase=dock current=(3.423, 0.298, -0.140) target_heading=0.000 yaw_error=0.140 pre_dock_distance=0.103 blocker=(6.755, 0.400)
+[1777966867.333] [INFO] Manual cmd: phase=dock current=(3.423, 0.298, -0.140) target_heading=0.000 yaw_error=0.140 cmd=(linear=1.200, angular=0.394) blocker=(6.755, 0.400)
+[1777966868.133] [INFO] Docking state: pos=(3.540, 0.291) current_yaw=-0.109 axis_heading=0.000 axis_error=0.109 target_yaw=0.300 yaw_error=0.409 along=3.415 cross=-0.109 phase=dock lift_done=False
+[1777966868.184] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.540, 0.291, -0.109) target=(3.411, 0.400, 0.000) distance=0.169 yaw_error=0.109
+[1777966868.283] [INFO] Manual docking state: phase=dock current=(3.540, 0.291, -0.109) target_heading=0.000 yaw_error=0.109 pre_dock_distance=0.169 blocker=(6.755, 0.400)
+[1777966868.333] [INFO] Manual cmd: phase=dock current=(3.540, 0.291, -0.109) target_heading=0.000 yaw_error=0.109 cmd=(linear=1.200, angular=0.368) blocker=(6.755, 0.400)
+[1777966869.183] [INFO] Docking state: pos=(3.612, 0.294) current_yaw=-0.088 axis_heading=0.000 axis_error=0.088 target_yaw=0.300 yaw_error=0.388 along=3.343 cross=-0.106 phase=dock lift_done=False
+[1777966869.184] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.612, 0.294, -0.088) target=(3.411, 0.400, 0.000) distance=0.228 yaw_error=0.088
+[1777966869.283] [INFO] Manual docking state: phase=dock current=(3.612, 0.294, -0.088) target_heading=0.000 yaw_error=0.088 pre_dock_distance=0.228 blocker=(6.755, 0.400)
+[1777966869.383] [INFO] Manual cmd: phase=dock current=(3.612, 0.294, -0.088) target_heading=0.000 yaw_error=0.088 cmd=(linear=1.200, angular=0.349) blocker=(6.755, 0.400)
+[1777966870.235] [INFO] Docking state: pos=(3.688, 0.275) current_yaw=-0.060 axis_heading=0.000 axis_error=0.060 target_yaw=0.300 yaw_error=0.360 along=3.268 cross=-0.125 phase=dock lift_done=False
+[1777966870.333] [INFO] Manual docking state: phase=dock current=(3.688, 0.275, -0.060) target_heading=0.000 yaw_error=0.060 pre_dock_distance=0.304 blocker=(6.755, 0.400)
+[1777966870.386] [INFO] Manual cmd: phase=dock current=(3.688, 0.275, -0.060) target_heading=0.000 yaw_error=0.060 cmd=(linear=1.200, angular=0.324) blocker=(6.755, 0.400)
+[1777966870.387] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.688, 0.275, -0.060) target=(3.411, 0.400, 0.000) distance=0.304 yaw_error=0.060
+[1777966871.283] [INFO] Docking state: pos=(3.781, 0.267) current_yaw=-0.030 axis_heading=0.000 axis_error=0.030 target_yaw=0.300 yaw_error=0.330 along=3.175 cross=-0.133 phase=dock lift_done=False
+[1777966871.333] [INFO] Manual docking state: phase=dock current=(3.781, 0.267, -0.030) target_heading=0.000 yaw_error=0.030 pre_dock_distance=0.393 blocker=(6.755, 0.400)
+[1777966871.433] [INFO] Manual cmd: phase=dock current=(3.781, 0.267, -0.030) target_heading=0.000 yaw_error=0.030 cmd=(linear=1.200, angular=0.297) blocker=(6.755, 0.400)
+[1777966871.584] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.781, 0.267, -0.030) target=(3.411, 0.400, 0.000) distance=0.393 yaw_error=0.030
+[1777966872.333] [INFO] Docking state: pos=(3.884, 0.267) current_yaw=-0.001 axis_heading=0.000 axis_error=0.001 target_yaw=0.300 yaw_error=0.301 along=3.071 cross=-0.133 phase=dock lift_done=False
+[1777966872.383] [INFO] Manual docking state: phase=dock current=(3.884, 0.267, -0.001) target_heading=0.000 yaw_error=0.001 pre_dock_distance=0.491 blocker=(6.755, 0.400)
+[1777966872.483] [INFO] Manual cmd: phase=dock current=(3.884, 0.267, -0.001) target_heading=0.000 yaw_error=0.001 cmd=(linear=1.200, angular=0.271) blocker=(6.755, 0.400)
+[1777966872.584] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.884, 0.267, -0.001) target=(3.411, 0.400, 0.000) distance=0.491 yaw_error=0.001
+[1777966873.333] [INFO] Docking state: pos=(3.983, 0.266) current_yaw=0.009 axis_heading=0.000 axis_error=-0.009 target_yaw=0.300 yaw_error=0.291 along=2.972 cross=-0.134 phase=dock lift_done=False
+[1777966873.384] [INFO] Manual docking state: phase=dock current=(3.983, 0.266, 0.009) target_heading=0.000 yaw_error=-0.009 pre_dock_distance=0.588 blocker=(6.755, 0.400)
+[1777966873.483] [INFO] Manual cmd: phase=dock current=(3.983, 0.266, 0.009) target_heading=0.000 yaw_error=-0.009 cmd=(linear=1.200, angular=0.262) blocker=(6.755, 0.400)
+[1777966873.585] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(3.983, 0.266, 0.009) target=(3.411, 0.400, 0.000) distance=0.588 yaw_error=-0.009
+[1777966874.335] [INFO] Docking state: pos=(4.098, 0.272) current_yaw=0.037 axis_heading=0.000 axis_error=-0.037 target_yaw=0.300 yaw_error=0.263 along=2.857 cross=-0.128 phase=dock lift_done=False
+[1777966874.433] [INFO] Manual docking state: phase=dock current=(4.098, 0.272, 0.037) target_heading=0.000 yaw_error=-0.037 pre_dock_distance=0.699 blocker=(6.755, 0.400)
+[1777966874.484] [INFO] Manual cmd: phase=dock current=(4.098, 0.272, 0.037) target_heading=0.000 yaw_error=-0.037 cmd=(linear=1.200, angular=0.237) blocker=(6.755, 0.400)
+[1777966874.784] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(4.229, 0.283, 0.065) target=(3.411, 0.400, 0.000) distance=0.827 yaw_error=-0.065
+[1777966875.385] [INFO] Docking state: pos=(4.229, 0.283) current_yaw=0.065 axis_heading=0.000 axis_error=-0.065 target_yaw=0.300 yaw_error=0.235 along=2.726 cross=-0.117 phase=dock lift_done=False
+[1777966875.484] [INFO] Manual docking state: phase=dock current=(4.229, 0.283, 0.065) target_heading=0.000 yaw_error=-0.065 pre_dock_distance=0.827 blocker=(6.755, 0.400)
+[1777966875.485] [INFO] Manual cmd: phase=dock current=(4.229, 0.283, 0.065) target_heading=0.000 yaw_error=-0.065 cmd=(linear=1.200, angular=0.211) blocker=(6.755, 0.400)
+[1777966875.985] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(4.348, 0.292, 0.079) target=(3.411, 0.400, 0.000) distance=0.944 yaw_error=-0.079
+[1777966876.433] [INFO] Docking state: pos=(4.348, 0.292) current_yaw=0.079 axis_heading=0.000 axis_error=-0.079 target_yaw=0.300 yaw_error=0.221 along=2.607 cross=-0.108 phase=dock lift_done=False
+[1777966876.534] [INFO] Manual docking state: phase=dock current=(4.348, 0.292, 0.079) target_heading=0.000 yaw_error=-0.079 pre_dock_distance=0.944 blocker=(6.755, 0.400)
+[1777966876.534] [INFO] Manual cmd: phase=dock current=(4.348, 0.292, 0.079) target_heading=0.000 yaw_error=-0.079 cmd=(linear=1.200, angular=0.199) blocker=(6.755, 0.400)
+[1777966877.184] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(4.468, 0.298, 0.111) target=(3.411, 0.400, 0.000) distance=1.062 yaw_error=-0.111
+[1777966877.434] [INFO] Docking state: pos=(4.468, 0.298) current_yaw=0.111 axis_heading=0.000 axis_error=-0.111 target_yaw=0.297 yaw_error=0.186 along=2.487 cross=-0.102 phase=dock lift_done=False
+[1777966877.583] [INFO] Manual docking state: phase=dock current=(4.577, 0.316, 0.126) target_heading=0.000 yaw_error=-0.126 pre_dock_distance=1.169 blocker=(6.755, 0.400)
+[1777966877.583] [INFO] Manual cmd: phase=dock current=(4.577, 0.316, 0.126) target_heading=0.000 yaw_error=-0.126 cmd=(linear=1.200, angular=0.108) blocker=(6.755, 0.400)
+[1777966878.385] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(4.577, 0.316, 0.126) target=(3.411, 0.400, 0.000) distance=1.169 yaw_error=-0.126
+[1777966878.483] [INFO] Docking state: pos=(4.706, 0.336) current_yaw=0.136 axis_heading=0.000 axis_error=-0.136 target_yaw=0.189 yaw_error=0.052 along=2.249 cross=-0.064 phase=dock lift_done=False
+[1777966878.633] [INFO] Manual docking state: phase=dock current=(4.706, 0.336, 0.136) target_heading=0.000 yaw_error=-0.136 pre_dock_distance=1.297 blocker=(6.755, 0.400)
+[1777966878.633] [INFO] Manual cmd: phase=dock current=(4.706, 0.336, 0.136) target_heading=0.000 yaw_error=-0.136 cmd=(linear=1.200, angular=0.047) blocker=(6.755, 0.400)
+[1777966879.484] [INFO] Docking state: pos=(4.811, 0.347) current_yaw=0.135 axis_heading=0.000 axis_error=-0.135 target_yaw=0.157 yaw_error=0.022 along=2.144 cross=-0.053 phase=dock lift_done=False
+[1777966879.583] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(4.811, 0.347, 0.135) target=(3.411, 0.400, 0.000) distance=1.401 yaw_error=-0.135
+[1777966879.633] [INFO] Manual docking state: phase=dock current=(4.811, 0.347, 0.135) target_heading=0.000 yaw_error=-0.135 pre_dock_distance=1.401 blocker=(6.755, 0.400)
+[1777966879.634] [INFO] Manual cmd: phase=dock current=(4.811, 0.347, 0.135) target_heading=0.000 yaw_error=-0.135 cmd=(linear=1.200, angular=0.020) blocker=(6.755, 0.400)
+[1777966880.533] [INFO] Docking state: pos=(4.928, 0.356) current_yaw=0.143 axis_heading=0.000 axis_error=-0.143 target_yaw=0.132 yaw_error=-0.010 along=2.027 cross=-0.044 phase=dock lift_done=False
+[1777966880.683] [INFO] Manual docking state: phase=dock current=(4.928, 0.356, 0.143) target_heading=0.000 yaw_error=-0.143 pre_dock_distance=1.518 blocker=(6.755, 0.400)
+[1777966880.684] [INFO] Manual cmd: phase=dock current=(4.928, 0.356, 0.143) target_heading=0.000 yaw_error=-0.143 cmd=(linear=1.200, angular=-0.009) blocker=(6.755, 0.400)
+[1777966880.784] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(4.928, 0.356, 0.143) target=(3.411, 0.400, 0.000) distance=1.518 yaw_error=-0.143
+[1777966881.533] [INFO] Docking state: pos=(5.030, 0.368) current_yaw=0.148 axis_heading=0.000 axis_error=-0.148 target_yaw=0.095 yaw_error=-0.053 along=1.925 cross=-0.032 phase=dock lift_done=False
+[1777966881.684] [INFO] Manual docking state: phase=dock current=(5.030, 0.368, 0.148) target_heading=0.000 yaw_error=-0.148 pre_dock_distance=1.620 blocker=(6.755, 0.400)
+[1777966881.685] [INFO] Manual cmd: phase=dock current=(5.030, 0.368, 0.148) target_heading=0.000 yaw_error=-0.148 cmd=(linear=1.200, angular=-0.048) blocker=(6.755, 0.400)
+[1777966881.984] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(5.030, 0.368, 0.148) target=(3.411, 0.400, 0.000) distance=1.620 yaw_error=-0.148
+[1777966882.583] [INFO] Docking state: pos=(5.137, 0.386) current_yaw=0.147 axis_heading=0.000 axis_error=-0.147 target_yaw=0.040 yaw_error=-0.107 along=1.818 cross=-0.014 phase=dock lift_done=False
+[1777966882.683] [INFO] Manual docking state: phase=dock current=(5.137, 0.386, 0.147) target_heading=0.000 yaw_error=-0.147 pre_dock_distance=1.727 blocker=(6.755, 0.400)
+[1777966882.733] [INFO] Manual cmd: phase=dock current=(5.137, 0.386, 0.147) target_heading=0.000 yaw_error=-0.147 cmd=(linear=1.200, angular=-0.096) blocker=(6.755, 0.400)
+[1777966883.185] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(5.137, 0.386, 0.147) target=(3.411, 0.400, 0.000) distance=1.727 yaw_error=-0.147
+[1777966883.585] [INFO] Docking state: pos=(5.260, 0.408) current_yaw=0.135 axis_heading=0.000 axis_error=-0.135 target_yaw=-0.024 yaw_error=-0.159 along=1.695 cross=0.008 phase=dock lift_done=False
+[1777966883.734] [INFO] Manual docking state: phase=dock current=(5.260, 0.408, 0.135) target_heading=0.000 yaw_error=-0.135 pre_dock_distance=1.849 blocker=(6.755, 0.400)
+[1777966883.735] [INFO] Manual cmd: phase=dock current=(5.260, 0.408, 0.135) target_heading=0.000 yaw_error=-0.135 cmd=(linear=1.200, angular=-0.143) blocker=(6.755, 0.400)
+[1777966884.383] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(5.376, 0.422, 0.124) target=(3.411, 0.400, 0.000) distance=1.965 yaw_error=-0.124
+[1777966884.633] [INFO] Docking state: pos=(5.376, 0.422) current_yaw=0.124 axis_heading=0.000 axis_error=-0.124 target_yaw=-0.067 yaw_error=-0.191 along=1.579 cross=0.022 phase=dock lift_done=False
+[1777966884.785] [INFO] Manual docking state: phase=dock current=(5.376, 0.422, 0.124) target_heading=0.000 yaw_error=-0.124 pre_dock_distance=1.965 blocker=(6.755, 0.400)
+[1777966884.785] [INFO] Manual cmd: phase=dock current=(5.376, 0.422, 0.124) target_heading=0.000 yaw_error=-0.124 cmd=(linear=1.200, angular=-0.172) blocker=(6.755, 0.400)
+[1777966885.384] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(5.513, 0.440, 0.118) target=(3.411, 0.400, 0.000) distance=2.102 yaw_error=-0.118
+[1777966885.683] [INFO] Docking state: pos=(5.513, 0.440) current_yaw=0.118 axis_heading=0.000 axis_error=-0.118 target_yaw=-0.120 yaw_error=-0.238 along=1.442 cross=0.040 phase=dock lift_done=False
+[1777966885.834] [INFO] Manual docking state: phase=dock current=(5.513, 0.440, 0.118) target_heading=0.000 yaw_error=-0.118 pre_dock_distance=2.102 blocker=(6.755, 0.400)
+[1777966885.834] [INFO] Manual cmd: phase=dock current=(5.513, 0.440, 0.118) target_heading=0.000 yaw_error=-0.118 cmd=(linear=1.200, angular=-0.215) blocker=(6.755, 0.400)
+[1777966886.385] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(5.635, 0.445, 0.091) target=(3.411, 0.400, 0.000) distance=2.225 yaw_error=-0.091
+[1777966886.683] [INFO] Docking state: pos=(5.635, 0.445) current_yaw=0.091 axis_heading=0.000 axis_error=-0.091 target_yaw=-0.134 yaw_error=-0.225 along=1.320 cross=0.045 phase=dock lift_done=False
+[1777966886.834] [INFO] Manual docking state: phase=dock current=(5.635, 0.445, 0.091) target_heading=0.000 yaw_error=-0.091 pre_dock_distance=2.225 blocker=(6.755, 0.400)
+[1777966886.835] [INFO] Manual cmd: phase=dock current=(5.635, 0.445, 0.091) target_heading=0.000 yaw_error=-0.091 cmd=(linear=1.200, angular=-0.202) blocker=(6.755, 0.400)
+[1777966887.584] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(5.754, 0.444, 0.070) target=(3.411, 0.400, 0.000) distance=2.344 yaw_error=-0.070
+[1777966887.733] [INFO] Docking state: pos=(5.754, 0.444) current_yaw=0.070 axis_heading=0.000 axis_error=-0.070 target_yaw=-0.130 yaw_error=-0.200 along=1.201 cross=0.044 phase=dock lift_done=False
+[1777966887.835] [INFO] Manual docking state: phase=dock current=(5.754, 0.444, 0.070) target_heading=0.000 yaw_error=-0.070 pre_dock_distance=2.344 blocker=(6.755, 0.400)
+[1777966887.837] [INFO] Manual cmd: phase=dock current=(5.754, 0.444, 0.070) target_heading=0.000 yaw_error=-0.070 cmd=(linear=1.200, angular=-0.180) blocker=(6.755, 0.400)
+[1777966888.784] [INFO] Docking state: pos=(5.873, 0.456) current_yaw=0.052 axis_heading=0.000 axis_error=-0.052 target_yaw=-0.168 yaw_error=-0.220 along=1.082 cross=0.056 phase=dock lift_done=False
+[1777966888.785] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(5.873, 0.456, 0.052) target=(3.411, 0.400, 0.000) distance=2.462 yaw_error=-0.052
+[1777966888.883] [INFO] Manual docking state: phase=dock current=(5.873, 0.456, 0.052) target_heading=0.000 yaw_error=-0.052 pre_dock_distance=2.462 blocker=(6.755, 0.400)
+[1777966888.883] [INFO] Manual cmd: phase=dock current=(5.873, 0.456, 0.052) target_heading=0.000 yaw_error=-0.052 cmd=(linear=1.200, angular=-0.198) blocker=(6.755, 0.400)
+[1777966889.833] [INFO] Docking state: pos=(5.997, 0.467) current_yaw=0.043 axis_heading=0.000 axis_error=-0.043 target_yaw=-0.199 yaw_error=-0.242 along=0.958 cross=0.067 phase=dock lift_done=False
+[1777966889.883] [INFO] Manual docking state: phase=dock current=(5.997, 0.467, 0.043) target_heading=0.000 yaw_error=-0.043 pre_dock_distance=2.587 blocker=(6.755, 0.400)
+[1777966889.884] [INFO] Manual cmd: phase=dock current=(5.997, 0.467, 0.043) target_heading=0.000 yaw_error=-0.043 cmd=(linear=1.200, angular=-0.218) blocker=(6.755, 0.400)
+[1777966889.983] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(5.997, 0.467, 0.043) target=(3.411, 0.400, 0.000) distance=2.587 yaw_error=-0.043
+[1777966890.883] [INFO] Docking state: pos=(6.114, 0.476) current_yaw=0.028 axis_heading=0.000 axis_error=-0.028 target_yaw=-0.224 yaw_error=-0.251 along=0.842 cross=0.076 phase=dock lift_done=False
+[1777966890.933] [INFO] Manual docking state: phase=dock current=(6.114, 0.476, 0.028) target_heading=0.000 yaw_error=-0.028 pre_dock_distance=2.704 blocker=(6.755, 0.400)
+[1777966890.933] [INFO] Manual cmd: phase=dock current=(6.114, 0.476, 0.028) target_heading=0.000 yaw_error=-0.028 cmd=(linear=1.200, angular=-0.226) blocker=(6.755, 0.400)
+[1777966890.983] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.114, 0.476, 0.028) target=(3.411, 0.400, 0.000) distance=2.704 yaw_error=-0.028
+[1777966891.883] [INFO] Docking state: pos=(6.237, 0.478) current_yaw=0.004 axis_heading=0.000 axis_error=-0.004 target_yaw=-0.229 yaw_error=-0.233 along=0.718 cross=0.078 phase=dock lift_done=False
+[1777966891.933] [INFO] Manual docking state: phase=dock current=(6.237, 0.478, 0.004) target_heading=0.000 yaw_error=-0.004 pre_dock_distance=2.827 blocker=(6.755, 0.400)
+[1777966891.934] [INFO] Manual cmd: phase=dock current=(6.237, 0.478, 0.004) target_heading=0.000 yaw_error=-0.004 cmd=(linear=1.200, angular=-0.210) blocker=(6.755, 0.400)
+[1777966891.984] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.237, 0.478, 0.004) target=(3.411, 0.400, 0.000) distance=2.827 yaw_error=-0.004
+[1777966892.883] [INFO] Docking state: pos=(6.344, 0.471) current_yaw=-0.028 axis_heading=0.000 axis_error=0.028 target_yaw=-0.150 yaw_error=-0.122 along=0.611 cross=0.071 phase=dock lift_done=False
+[1777966892.933] [INFO] Manual docking state: phase=dock current=(6.344, 0.471, -0.028) target_heading=0.000 yaw_error=0.028 pre_dock_distance=2.934 blocker=(6.755, 0.400)
+[1777966892.934] [INFO] Manual cmd: phase=dock current=(6.344, 0.471, -0.028) target_heading=0.000 yaw_error=0.028 cmd=(linear=0.150, angular=-0.067) blocker=(6.755, 0.400)
+[1777966892.985] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.344, 0.471, -0.028) target=(3.411, 0.400, 0.000) distance=2.934 yaw_error=0.028
+[1777966893.883] [INFO] Docking state: pos=(6.451, 0.467) current_yaw=-0.051 axis_heading=0.000 axis_error=0.051 target_yaw=-0.150 yaw_error=-0.099 along=0.504 cross=0.067 phase=dock lift_done=False
+[1777966893.983] [INFO] Manual docking state: phase=dock current=(6.451, 0.467, -0.051) target_heading=0.000 yaw_error=0.051 pre_dock_distance=3.041 blocker=(6.755, 0.400)
+[1777966893.983] [INFO] Manual cmd: phase=dock current=(6.451, 0.467, -0.051) target_heading=0.000 yaw_error=0.051 cmd=(linear=0.150, angular=-0.054) blocker=(6.755, 0.400)
+[1777966894.184] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.567, 0.462, -0.063) target=(3.411, 0.400, 0.000) distance=3.157 yaw_error=0.063
+[1777966894.933] [INFO] Docking state: pos=(6.567, 0.462) current_yaw=-0.063 axis_heading=0.000 axis_error=0.063 target_yaw=-0.150 yaw_error=-0.087 along=0.388 cross=0.062 phase=dock lift_done=False
+[1777966894.983] [INFO] Manual docking state: phase=dock current=(6.567, 0.462, -0.063) target_heading=0.000 yaw_error=0.063 pre_dock_distance=3.157 blocker=(6.755, 0.400)
+[1777966894.984] [INFO] Manual cmd: phase=dock current=(6.567, 0.462, -0.063) target_heading=0.000 yaw_error=0.063 cmd=(linear=0.150, angular=-0.048) blocker=(6.755, 0.400)
+[1777966895.388] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.662, 0.457, -0.068) target=(3.411, 0.400, 0.000) distance=3.251 yaw_error=0.068
+[1777966895.984] [INFO] Docking state: pos=(6.662, 0.457) current_yaw=-0.068 axis_heading=0.000 axis_error=0.068 target_yaw=-0.150 yaw_error=-0.082 along=0.293 cross=0.057 phase=dock lift_done=False
+[1777966895.984] [INFO] Manual cmd: phase=dock current=(6.662, 0.457, -0.068) target_heading=0.000 yaw_error=0.068 cmd=(linear=0.150, angular=-0.045) blocker=(6.755, 0.400)
+[1777966896.034] [INFO] Manual docking state: phase=dock current=(6.662, 0.457, -0.068) target_heading=0.000 yaw_error=0.068 pre_dock_distance=3.251 blocker=(6.755, 0.400)
+[1777966896.584] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.743, 0.454, -0.066) target=(3.411, 0.400, 0.000) distance=3.333 yaw_error=0.066
+[1777966896.986] [INFO] Docking state: pos=(6.743, 0.454) current_yaw=-0.066 axis_heading=0.000 axis_error=0.066 target_yaw=-0.150 yaw_error=-0.084 along=0.212 cross=0.054 phase=dock lift_done=False
+[1777966896.987] [INFO] Manual cmd: phase=dock current=(6.743, 0.454, -0.066) target_heading=0.000 yaw_error=0.066 cmd=(linear=0.150, angular=-0.046) blocker=(6.755, 0.400)
+[1777966897.083] [INFO] Manual docking state: phase=dock current=(6.743, 0.454, -0.066) target_heading=0.000 yaw_error=0.066 pre_dock_distance=3.333 blocker=(6.755, 0.400)
+[1777966897.586] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.823, 0.448, -0.068) target=(3.411, 0.400, 0.000) distance=3.412 yaw_error=0.068
+[1777966898.033] [INFO] Docking state: pos=(6.823, 0.448) current_yaw=-0.068 axis_heading=0.000 axis_error=0.068 target_yaw=-0.144 yaw_error=-0.076 along=0.132 cross=0.048 phase=dock lift_done=False
+[1777966898.033] [INFO] Manual cmd: phase=dock current=(6.823, 0.448, -0.068) target_heading=0.000 yaw_error=0.068 cmd=(linear=0.150, angular=-0.042) blocker=(6.755, 0.400)
+[1777966898.083] [INFO] Manual docking state: phase=dock current=(6.823, 0.448, -0.068) target_heading=0.000 yaw_error=0.068 pre_dock_distance=3.412 blocker=(6.755, 0.400)
+[1777966898.184] [INFO] Reached blocker pallet target: target=(6.955, 0.400) distance=0.073 along=0.059 cross=0.043. Holding wheels at zero for 1.00s before final alignment for raising the lift for pallet pickup.
+[1777966898.586] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.896, 0.443, -0.077) target=(3.411, 0.400, 0.000) distance=3.485 yaw_error=0.077
+[1777966899.034] [INFO] Manual cmd: phase=pre_lift_stop current=(6.896, 0.443, -0.077) target_heading=0.000 yaw_error=0.077 cmd=(linear=0.000, angular=0.000) blocker=(6.755, 0.400)
+[1777966899.133] [INFO] Manual docking state: phase=pre_lift_stop current=(6.896, 0.443, -0.077) target_heading=0.000 yaw_error=0.077 pre_dock_distance=3.485 blocker=(6.755, 0.400)
+[1777966899.233] [INFO] Pre-lift stop hold finished (1.00s of zero cmd). Starting final in-place alignment before lift raising.
+[1777966899.234] [INFO] Lift alignment state before lift raising: current_yaw=-0.081 axis_heading=0.000 axis_error=0.081 brake_tolerance=0.044 completion_tolerance=0.070 gain=3.010
+[1777966899.237] [INFO] Manual rotation: phase=lift_align current=(6.961, 0.447, -0.081) target_heading=0.000 yaw_error=0.081 cmd_angular=0.300 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Final in-place heading alignment before lift raising
+[1777966899.784] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.961, 0.447, -0.081) target=(3.411, 0.400, 0.000) distance=3.551 yaw_error=0.081
+[1777966900.083] [INFO] Manual cmd: phase=lift_align current=(6.961, 0.447, -0.081) target_heading=0.000 yaw_error=0.081 cmd=(linear=0.000, angular=0.300) blocker=(6.755, 0.400)
+[1777966900.133] [INFO] Manual docking state: phase=lift_align current=(6.961, 0.447, -0.081) target_heading=0.000 yaw_error=0.081 pre_dock_distance=3.551 blocker=(6.755, 0.400)
+[1777966900.283] [INFO] Lift alignment state before lift raising: current_yaw=-0.081 axis_heading=0.000 axis_error=0.081 brake_tolerance=0.044 completion_tolerance=0.070 gain=3.010
+[1777966900.284] [INFO] Manual rotation: phase=lift_align current=(6.961, 0.447, -0.081) target_heading=0.000 yaw_error=0.081 cmd_angular=0.300 blocker=(6.755, 0.400) pre_dock=(3.411, 0.400) reason=Final in-place heading alignment before lift raising
+[1777966900.984] [INFO] amr2_pre_dock tracking: state=DIGGING phase=manual_docking current=(6.961, 0.447, -0.081) target=(3.411, 0.400, 0.000) distance=3.551 yaw_error=0.081
+[1777966901.134] [INFO] Manual cmd: phase=lift_align current=(6.961, 0.447, -0.081) target_heading=0.000 yaw_error=0.081 cmd=(linear=0.000, angular=0.300) blocker=(6.755, 0.400)
+[1777966901.184] [INFO] Manual docking state: phase=lift_align current=(6.961, 0.447, -0.081) target_heading=0.000 yaw_error=0.081 pre_dock_distance=3.551 blocker=(6.755, 0.400)
+[1777966901.234] [INFO] Lift alignment finished for lift raising at yaw=-0.069 target=0.000 within strict completion tolerance 0.070. Waiting for 0.5s of stable stop before commanding the lift.
+[1777966901.784] [INFO] Stable stop confirmed for 0.5s (drift=0.000 m yaw_drift=0.000 rad). Starting lift phase.
+[1777966901.785] [INFO] Mission state changed: DIGGING -> LIFTING_UP (Lift was commanded upward and the pallet is being picked while the AMR prepares to reverse.)
+[1777966901.785] [INFO] AMR2 lift_up triggered relocate=True; subsequent AMR1 docking must enter RELOCATING flow.
+[1777966901.785] [INFO] Started lift phase for /iw_hub_ROS_01 -> file command /home/nsl/IsaacSim-ros_workspaces/humble_ws/src/capstone/amr_navigation/config/lift_cmd.json (lift_joint=0.040). Lift verification timer starts now.
+[1777966901.833] [INFO] Lift state: current=0.0000 target=0.0400 complete_at>=0.0390
+[1777966901.986] [INFO] amr2_pre_dock tracking: state=LIFTING_UP phase=manual_docking current=(7.055, 0.445, -0.069) target=(3.411, 0.400, 0.000) distance=3.644 yaw_error=0.069
+[1777966902.233] [INFO] Manual docking state: phase=lift current=(7.055, 0.445, -0.069) target_heading=0.000 yaw_error=0.069 pre_dock_distance=3.644 blocker=(6.755, 0.400)
+[1777966902.833] [INFO] Lift state: current=0.0033 target=0.0400 complete_at>=0.0390
+[1777966903.184] [INFO] amr2_pre_dock tracking: state=LIFTING_UP phase=manual_docking current=(7.055, 0.445, -0.069) target=(3.411, 0.400, 0.000) distance=3.644 yaw_error=0.069
+[1777966903.283] [INFO] Manual docking state: phase=lift current=(7.055, 0.445, -0.069) target_heading=0.000 yaw_error=0.069 pre_dock_distance=3.644 blocker=(6.755, 0.400)
+[1777966903.883] [INFO] Lift state: current=0.0080 target=0.0400 complete_at>=0.0390
+[1777966904.283] [INFO] Manual docking state: phase=lift current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 pre_dock_distance=3.697 blocker=(6.755, 0.400)
+[1777966904.383] [INFO] amr2_pre_dock tracking: state=LIFTING_UP phase=manual_docking current=(7.107, 0.437, -0.033) target=(3.411, 0.400, 0.000) distance=3.697 yaw_error=0.033
+[1777966904.883] [INFO] Lift state: current=0.0120 target=0.0400 complete_at>=0.0390
+[1777966905.333] [INFO] Manual docking state: phase=lift current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 pre_dock_distance=3.697 blocker=(6.755, 0.400)
+[1777966905.585] [INFO] amr2_pre_dock tracking: state=LIFTING_UP phase=manual_docking current=(7.107, 0.437, -0.033) target=(3.411, 0.400, 0.000) distance=3.697 yaw_error=0.033
+[1777966905.883] [INFO] Lift state: current=0.0167 target=0.0400 complete_at>=0.0390
+[1777966906.333] [INFO] Manual docking state: phase=lift current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 pre_dock_distance=3.697 blocker=(6.755, 0.400)
+[1777966906.784] [INFO] amr2_pre_dock tracking: state=LIFTING_UP phase=manual_docking current=(7.107, 0.437, -0.033) target=(3.411, 0.400, 0.000) distance=3.697 yaw_error=0.033
+[1777966906.833] [WARN] Lift verify timeout after 5.0s, but lift reached 0.0200 m (threshold 0.0050 m). Proceeding to reverse phase.
+[1777966906.834] [INFO] Mission state changed: LIFTING_UP -> TRANSPORTING (Lift verify timed out near the pickup threshold; the AMR is reversing back toward the shared pre_dock with the lifted pallet.)
+[1777966906.883] [INFO] Manual cmd: phase=reverse current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 cmd=(linear=-0.120, angular=0.079) blocker=(6.755, 0.400)
+[1777966907.384] [INFO] Manual docking state: phase=reverse current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 pre_dock_distance=3.697 blocker=(6.755, 0.400)
+[1777966907.783] [INFO] amr2_pre_dock tracking: state=TRANSPORTING phase=manual_docking current=(7.107, 0.437, -0.033) target=(3.411, 0.400, 0.000) distance=3.697 yaw_error=0.033
+[1777966907.883] [INFO] Manual cmd: phase=reverse current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 cmd=(linear=-1.200, angular=0.079) blocker=(6.755, 0.400)
+[1777966908.433] [INFO] Manual docking state: phase=reverse current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 pre_dock_distance=3.697 blocker=(6.755, 0.400)
+[1777966908.784] [INFO] amr2_pre_dock tracking: state=TRANSPORTING phase=manual_docking current=(7.107, 0.437, -0.033) target=(3.411, 0.400, 0.000) distance=3.697 yaw_error=0.033
+[1777966908.883] [INFO] Manual cmd: phase=reverse current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 cmd=(linear=-1.200, angular=0.079) blocker=(6.755, 0.400)
+[1777966909.483] [INFO] Manual docking state: phase=reverse current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 pre_dock_distance=3.697 blocker=(6.755, 0.400)
+[1777966909.933] [INFO] Manual cmd: phase=reverse current=(7.107, 0.437, -0.033) target_heading=0.000 yaw_error=0.033 cmd=(linear=-1.200, angular=0.079) blocker=(6.755, 0.400)
+[1777966909.985] [INFO] amr2_pre_dock tracking: state=TRANSPORTING phase=manual_docking current=(7.107, 0.437, -0.033) target=(3.411, 0.400, 0.000) distance=3.697 yaw_error=0.033

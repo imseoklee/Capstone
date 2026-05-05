@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/nsl/.claude/projects/**)",
+      "Bash(python3 -c \"import ast; ast.parse\\(open\\('amr_navigation/amr_navigation/capstone_task_planner.py'\\).read\\(\\)\\); print\\('syntax OK'\\)\")",
+      "Read(//home/nsl/**)",
+      "Bash(python3 -c \"import ast; ast.parse\\(open\\('/home/nsl/Capston_workspace/amr_navigation/amr_navigation/capstone_task_planner.py'\\).read\\(\\)\\); print\\('syntax OK'\\)\")"
+    ],
+    "additionalDirectories": [
+      "/home/nsl/IsaacSim-ros_workspaces/humble_ws/src/navigation/iw_hub_navigation/rviz2",
+      "/home/nsl/IsaacSim-ros_workspaces/humble_ws/install/iw_hub_navigation/share/iw_hub_navigation/rviz2",
+      "/home/nsl/IsaacSim-ros_workspaces/humble_ws/src/navigation/iw_hub_navigation/params"
+    ]
+  }
+}

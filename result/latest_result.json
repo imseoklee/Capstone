@@ -1,0 +1,20 @@
+{
+  "status": "running",
+  "updated_ros_time_sec": 1777966700.385,
+  "durations": {
+    "digging_time_sec": null,
+    "relocate_time_sec": null,
+    "total_time_sec": null,
+    "amr1_nav2_total_sec": 0.0,
+    "amr2_nav2_total_sec": 84.241
+  },
+  "events": {
+    "amr1_move_start_time": 1777966576.406,
+    "amr1_first_pre_dock_arrival_time": 1777966700.385,
+    "amr1_digging_start_time": 1777966700.385,
+    "amr2_returned_pre_dock_with_target_time": null,
+    "amr1_move_to_relocation_start_time": null,
+    "amr1_relocation_placed_time": null,
+    "amr1_home_arrival_time": null
+  }
+}

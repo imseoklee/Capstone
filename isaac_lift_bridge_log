@@ -1,0 +1,45 @@
+[INFO] Bound iw_hub_ros lift joint on /iw_hub_ROS
+[INFO] Tuned iw_hub_ros lift drive: dof_index=4 max_force=50000.0 stiffness=120000.0 damping=18000.0
+[INFO] Bound iw_hub_ros_01 lift joint on /iw_hub_ROS_01
+[INFO] Tuned iw_hub_ros_01 lift drive: dof_index=4 max_force=50000.0 stiffness=120000.0 damping=18000.0
+[INFO] Lift bridge connection status:
+[INFO]   iw_hub_ros: connected to /iw_hub_ROS and lift_joint is ready.
+[INFO]   iw_hub_ros_01: connected to /iw_hub_ROS_01 and lift_joint is ready.
+[INFO] Lift motion config: ramp_duration=1.00s, poll_interval=1 step(s)
+[INFO] Lift drive config: max_force=50000.0 stiffness=120000.0 damping=18000.0
+[INFO] Requested high-friction physics material: static/dynamic friction=10000.0
+[INFO] Target visual bridge is watching /home/nsl/IsaacSim-ros_workspaces/humble_ws/src/capstone/amr_navigation/config/target_visual.json
+[INFO] Isaac Sim file lift bridge started.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[ERROR] Could not find lift DOF on /iw_hub_ROS
+[ERROR] Could not find lift DOF on /iw_hub_ROS_01
+[INFO] Lift bridge connection status:
+[WARN]   iw_hub_ros: articulation found on /iw_hub_ROS, but lift_joint is not ready.
+[WARN]   iw_hub_ros_01: articulation found on /iw_hub_ROS_01, but lift_joint is not ready.
+[INFO] Lift motion config: ramp_duration=1.00s, poll_interval=1 step(s)
+[INFO] Lift drive config: max_force=100000.0 stiffness=120000.0 damping=18000.0
+[INFO] Requested high-friction physics material: static/dynamic friction=10000.0
+[INFO] Target visual bridge is watching /home/nsl/IsaacSim-ros_workspaces/humble_ws/src/capstone/amr_navigation/config/target_visual.json
+[INFO] Isaac Sim file lift bridge started.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline stopped. Restoring target pallet highlight.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.
+[INFO] Isaac Sim timeline started. Waiting for a fresh target pallet command.

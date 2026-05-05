@@ -1,0 +1,8 @@
+# Result Log
+# 이동 시간: AMR1 MOVE 시작 -> AMR1 첫 shared pre_dock 도착
+# DIGGING 시간: AMR1 DIGGING 시작 -> AMR2 target pallet lift 후 shared pre_dock 복귀
+# 전체 시간: AMR1 MOVE 시작 -> AMR1 blocker pallet 재배치 완료
+[1777966566.391] [INFO] Result tracking log initialized.
+[1777966576.406] [INFO] Result metric recorded: amr1_move_start_time at 1777966576.406 (AMR1 Nav2 goal toward the shared pre_dock was sent.)
+[1777966700.385] [INFO] Result metric recorded: amr1_first_pre_dock_arrival_time at 1777966700.385 (AMR1 switched from Nav2 pre_dock travel to manual docking at the shared pre_dock.)
+[1777966700.385] [INFO] Result metric recorded: amr1_digging_start_time at 1777966700.385 (AMR1 entered DIGGING at the shared pre_dock.)
