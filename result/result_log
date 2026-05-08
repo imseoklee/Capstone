@@ -2,15 +2,12 @@
 # 이동 시간: AMR1 MOVE 시작 -> AMR1 첫 shared pre_dock 도착
 # DIGGING 시간: AMR1 DIGGING 시작 -> AMR2 target pallet lift 후 shared pre_dock 복귀
 # 전체 시간: AMR1 MOVE 시작 -> AMR1 blocker pallet 재배치 완료
-[1777970632.476] [INFO] Result tracking log initialized.
-[1777970644.490] [INFO] Result metric recorded: amr1_move_start_time at 1777970644.490 (AMR1 Nav2 goal toward the shared pre_dock was sent.)
-[1777970789.465] [INFO] Result metric recorded: amr1_first_pre_dock_arrival_time at 1777970789.464 (AMR1 switched from Nav2 pre_dock travel to manual docking at the shared pre_dock.)
-[1777970789.465] [INFO] Result metric recorded: amr1_digging_start_time at 1777970789.465 (AMR1 entered DIGGING at the shared pre_dock.)
-[1777971062.713] [INFO] Result metric recorded: amr2_returned_pre_dock_with_target_time at 1777971062.712 (AMR2 returned to the shared pre_dock after lifting the target pallet.)
-[1777971062.713] [INFO] DIGGING 시간 확정: 273.247 s (AMR1 DIGGING 시작 -> AMR2 target pallet lift 후 shared pre_dock 도착)
-[1777971089.063] [INFO] Result metric recorded: amr1_move_to_relocation_start_time at 1777971089.062 (AMR1 entered MOVE_TO_RELOCATION (manual drive toward shared pre_dock for blocker re-placement).)
-[1777971197.113] [INFO] Result metric recorded: amr1_relocation_placed_time at 1777971197.112 (AMR1 finished lowering the blocker pallet into the former target pallet slot.)
-[1777971197.113] [INFO] RELOCATE 시간 확정: 108.050 s (AMR1 MOVE_TO_RELOCATION 시작 -> AMR1 LOWERING 완료)
-[1777971404.287] [INFO] Result metric recorded: amr1_home_arrival_time at 1777971404.287 (AMR1 returned to its initial position.)
-[1777971404.287] [INFO] 전체 시간 확정: 759.796 s (주문 시작 -> AMR1 초기 위치 도착)
-[1777971404.287] [INFO] Mission result completed: digging_time=273.247 s relocate_time=108.050 s total_time=759.796 s amr1_nav2=304.413s amr2_nav2=397.703s
+[1778204473.028] [INFO] Result tracking log initialized.
+[1778204485.038] [INFO] Result metric recorded: amr1_move_start_time at 1778204485.038 (AMR1 Nav2 goal toward the shared pre_dock was sent.)
+[1778204661.822] [INFO] Result metric recorded: amr1_first_pre_dock_arrival_time at 1778204661.822 (AMR1 switched from Nav2 pre_dock travel to manual docking at the shared pre_dock.)
+[1778204661.822] [INFO] Result metric recorded: amr1_digging_start_time at 1778204661.822 (AMR1 entered DIGGING at the shared pre_dock.)
+[1778204923.919] [INFO] Result metric recorded: amr2_returned_pre_dock_with_target_time at 1778204923.919 (AMR2 returned to the shared pre_dock after lifting the target pallet.)
+[1778204923.920] [INFO] DIGGING 시간 확정: 262.097 s (AMR1 DIGGING 시작 -> AMR2 target pallet lift 후 shared pre_dock 도착)
+[1778204950.820] [INFO] Result metric recorded: amr1_move_to_relocation_start_time at 1778204950.819 (AMR1 entered MOVE_TO_RELOCATION (manual drive toward shared pre_dock for blocker re-placement).)
+[1778205053.819] [INFO] Result metric recorded: amr1_relocation_placed_time at 1778205053.819 (AMR1 finished lowering the blocker pallet into the former target pallet slot.)
+[1778205053.819] [INFO] RELOCATE 시간 확정: 103.000 s (AMR1 MOVE_TO_RELOCATION 시작 -> AMR1 LOWERING 완료)

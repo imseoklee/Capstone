@@ -4069,6 +4069,8 @@ class CapstoneTaskPlanner(Node):
             min_speed_override = max(min_speed_override, self.lift_align_min_angular_speed)
             final_min_speed_override = max(final_min_speed_override, self.lift_align_min_angular_speed)
             effective_max_speed = min(effective_max_speed, max_speed * 0.6)
+            if not carrying_load:
+                effective_max_speed = max(effective_max_speed, min(0.4, max_speed))
             brake_exponent_override = max(brake_exponent_override, 5.0)
             final_brake_exponent_override = max(final_brake_exponent_override, 8.0)
             brake_start_override = max(brake_start_override, stop_tolerance * 6.0)
@@ -4117,15 +4119,20 @@ class CapstoneTaskPlanner(Node):
             disable_final_brake=carrying_load,
         )
         if phase == "lift_align" and abs(yaw_error) > stop_tolerance * 1.5:
-            breakaway_floor = (
-                self.lift_align_loaded_min_angular_speed
-                if carrying_load
-                else self.lift_align_min_angular_speed
-            )
-            error_scale = min(1.0, abs(yaw_error) / max(stop_tolerance * 2.0, 1e-6))
-            scaled_floor = min(breakaway_floor * error_scale, effective_max_speed)
-            if abs(angular_z) < scaled_floor:
-                angular_z = math.copysign(scaled_floor, yaw_error)
+            if not carrying_load and abs(yaw_error) > self.lift_align_completion_tolerance:
+                fixed_floor = min(0.4, effective_max_speed)
+                if abs(angular_z) < fixed_floor:
+                    angular_z = math.copysign(fixed_floor, yaw_error)
+            else:
+                breakaway_floor = (
+                    self.lift_align_loaded_min_angular_speed
+                    if carrying_load
+                    else self.lift_align_min_angular_speed
+                )
+                error_scale = min(1.0, abs(yaw_error) / max(stop_tolerance * 2.0, 1e-6))
+                scaled_floor = min(breakaway_floor * error_scale, effective_max_speed)
+                if abs(angular_z) < scaled_floor:
+                    angular_z = math.copysign(scaled_floor, yaw_error)
         if phase == "pre_turn_forward":
             if carrying_load and abs(yaw_error) > self.pre_turn_heading_stop_tolerance:
                 fixed_floor = min(self.loaded_pre_turn_min_angular_speed, effective_max_speed)
